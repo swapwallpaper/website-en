@@ -1,7 +1,7 @@
 ---
 layout: page
 title: James
-permalink: james
+permalink: pretty
 ---
 
 WIP
