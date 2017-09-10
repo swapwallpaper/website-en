@@ -64,6 +64,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#105b63" # Optional
+background_image: # Optional
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
@@ -75,7 +76,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: Swap Wallpaper
 description: # Optional - Enter your site description
 
 #
