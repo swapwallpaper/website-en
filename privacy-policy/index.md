@@ -3,75 +3,25 @@ layout: plain
 title: Privacy Policy
 ---
 
-Last updated: (add date)
+### 1. Responsible party and general principles
 
-My Company (change this) ("us", "we", or "our") operates http://www.mysite.com (change this) (the
-"Site"). This page informs you of our policies regarding the collection, use and disclosure of
-Personal Information we receive from users of the Site.
+We, „Swap Wallpaper“, Siegrunestr. 8, 80639 Munich, Germany, as the operator of the „Swap Wallpaper“ (following „app“) are the responsible entity for the personal data of users of the app (following „You“) within the meaning of the Federal Data Protection Act (German: “BDSG”).
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you
-agree to the collection and use of information in accordance with this policy.
+Your confidence and your privacy is a special concern. Therefore, we take the protection and security of your personal data very seriously. Your data is exclusively collected, processed and used in compliance with data protection regulations, in particular the provisions of the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).
 
-### Information Collection And Use
+As part of our duty we would like to inform you in detail which data is collected when downloading and using our app and the use of our services and offers and how it is processed or used by us in the following. Furthermore, we would also like to inform you which accompanying protective measures we have taken in technical and organizational aspects.
 
-While using our Site, we may ask you to provide us with certain personally identifiable information
-that can be used to contact or identify you. Personally identifiable information may include, but is not
-limited to your name ("Personal Information").
+### 2. Collection and use of personal data
+Your wallpapers are not stored on our servers except during transfer. We do not store any personal data of you or your friend. During installation, you can opt-out from crash reporting and analytics tracking.
 
-### Log Data
+___Google Analytics & Crash Reporting___
+We are using Google Analytics to track anonymous usage data. Analytics data does not contain any personal information. During installation and later on the main screen you can opt-out from crash reporting and analytics tracking. For more information check the following link https://www.google.com/policies/privacy/
 
-Like many site operators, we collect information that your browser sends whenever you visit our Site
-("Log Data").
+### 3. Data security
+We use technical and organizational security measures to protect transferred data, in particular against accidental or intentional manipulation, loss, destruction or against attack by unauthorized persons. Our security measures are continuously improved in line with technological developments.
 
-This Log Data may include information such as your computer's Internet Protocol ("IP") address,
-browser type, browser version, the pages of our Site that you visit, the time and date of your visit,
-the time spent on those pages and other statistics.
+### 4. Your rights
+We inform you that you can revoke any consent of data privacy at all times. You also have the right to request information about the data stored concerning you under the legal conditions free of charge at any time. Further under the legal conditions you have the right to delete, lock or correct this data. Please contact in writing to contact@swapwallpaper.com.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and
-analyze this …
-
-The Log Data section is for businesses that use analytics or tracking services in websites or
-apps, like Google Analytics. For the full disclosure section, create your own Privacy Policy.
-
-### Communications
-
-We may use your Personal Information to contact you with newsletters, marketing or promotional
-materials and other information that ...
-
-The Communications section is for businesses that may contact users via email (email
-newsletters) or other methods. For the full disclosure section, create your own Privacy Policy.
-
-### Cookies
-
-Cookies are files with small amount of data, which may include an anonymous unique identifier.
-
-Cookies are sent to your browser from a web site and stored on your computer's hard drive.
-
-Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all
-cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may
-not be able to use some portions of our Site.
-
-### Security
-
-The security of your Personal Information is important to us, but remember that no method of
-transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to
-use commercially acceptable means to protect your Personal Information, we cannot guarantee its
-absolute security.
-
-### Changes To This Privacy Policy
-
-This Privacy Policy is effective as of (add date) and will remain in effect except with respect to any
-changes in its provisions in the future, which will be in effect immediately after being posted on this
-page.
-
-We reserve the right to update or change our Privacy Policy at any time and you should check this
-Privacy Policy periodically. Your continued use of the Service after we post any modifications to the
-Privacy Policy on this page will constitute your acknowledgment of the modifications and your
-consent to abide and be bound by the modified Privacy Policy.
-
-If we make any material changes to this Privacy Policy, we will notify you either through the email
-address you have provided us, or by placing a prominent notice on our website.
-
-### Contact Us
-
-If you have any questions about this Privacy Policy, please contact us.
+### 5. Change of this Privacy Policy
+We reserve the right to change this Privacy Policy with effect for the future at any time. A current version is available on our website. Please visit the site on a regular basis and inform yourself about the applicable data protection regulations.
