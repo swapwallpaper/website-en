@@ -15,6 +15,7 @@ As part of our duty we would like to inform you in detail which data is collecte
 Your wallpapers are not stored on our servers except during transfer. We do not store any personal data of you or your friend. During installation, you can opt-out from crash reporting and analytics tracking.
 
 ___Google Analytics & Crash Reporting___
+
 We are using Google Analytics to track anonymous usage data. Analytics data does not contain any personal information. During installation and later on the main screen you can opt-out from crash reporting and analytics tracking. For more information check the following link https://www.google.com/policies/privacy/
 
 ### 3. Data security
